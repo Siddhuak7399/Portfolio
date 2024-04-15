@@ -28,6 +28,8 @@
 5. Tool used= Python 
 In this project, we imported essential Python libraries for data analysis and visualization, including numpy, pandas, matplotlib, and seaborn. 
 We then conducted Exploratory Data Analysis (EDA) to gain insights into the dataset and implemented data visualizations using seaborn for effective representation of key metrics and trends.
+
+
 Datasets used 
 1.Diwali Sales Analysis 
 2.Spotify Song Analysis 
@@ -42,18 +44,18 @@ Steps Taken:
 •	seaborn: For advanced statistical plotting and enhanced visualizations.
 
 2. Loading and Exploring the Dataset:
-1.	Read the dataset into a Data Frame using pandas (pd. read_csv () or other appropriate methods).
-2.	Explore the structure of the dataset (e.g., columns, data types, summary statistics) using pandas’ functions (df. head (), df.info (), df. describe ()).
+.	Read the dataset into a Data Frame using pandas (pd. read_csv () or other appropriate methods).
+.	Explore the structure of the dataset (e.g., columns, data types, summary statistics) using pandas’ functions (df. head (), df.info (), df. describe ()).
 
 3. Exploratory Data Analysis (EDA):
-1.	Identify and handle missing values (df. is null (), df. dropna (), df. fillna ()).
-2.	Analyse distributions of numerical variables using histograms and density plots (sns. distplot ()).
+.	Identify and handle missing values (df. is null (), df. dropna (), df. fillna ()).
+.	Analyse distributions of numerical variables using histograms and density plots (sns. distplot ()).
 
 4. Data Visualization with seaborn:
-1.	Implement various seaborn plots to visualize categorical and numerical data:
-2.	Count Plot: Visualize frequency of categorical variables (sns. countplot ()).
-3.	Bar Plot: Compare numerical values across different categories (sns. barplot ()).
-4.	Distribution Plot: Display distribution of a numerical variable (sns. distplot ()).
+.	Implement various seaborn plots to visualize categorical and numerical data:
+.	Count Plot: Visualize frequency of categorical variables (sns. countplot ()).
+.	Bar Plot: Compare numerical values across different categories (sns. barplot ()).
+.	Distribution Plot: Display distribution of a numerical variable (sns. distplot ()).
 
 5.Use EDA findings to identify trends, outliers, and patterns within the dataset.
 
