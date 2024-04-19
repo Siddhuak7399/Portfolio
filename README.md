@@ -1,10 +1,8 @@
 1. Pizza Sales 
     Tool used= My SQL 
 •	Project Description –After successfully importing CSV data into our MySQL database using the Table Data Import Wizard.
-•	This project aims to enhance pizza sales performance and elevate customer satisfaction by implementing data-driven strategies and insights derived from comprehensive analysis of 
-     sales data and customer preferences within a pizza restaurant setting.
-•	Develop SQL queries to generate reports on key performance indicators (KPIs) such as total revenue, average order value, average pizza per order, daily trend, hourly trend, % of 
-    sales by pizza category, %of pizza size ordered, orders with most number of pizza ordered, overall breakdown by pizza size
+•	This project aims to enhance pizza sales performance and elevate customer satisfaction by implementing data-driven strategies and insights derived from comprehensive analysis of sales data and customer preferences within a pizza restaurant setting.
+•	Develop SQL queries to generate reports on key performance indicators (KPIs) such as total revenue, average order value, average pizza per order, daily trend, hourly trend, % of sales by pizza category, %of pizza size ordered, orders with most number of pizza ordered, overall breakdown by pizza size
 •	Utilize aggregate functions (e.g., SUM, COUNT) to calculate metrics for analysis and decision-making along with order by, group by functions
 •	By executing these queries, we can gain a deeper understanding of sales patterns, customer preferences, and performance metrics crucial for informed decision-making and strategic planning within the pizza restaurant business.
 
