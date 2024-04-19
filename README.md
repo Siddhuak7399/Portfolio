@@ -34,6 +34,10 @@ Datasets used
 3.Cars and flower(iris) data analysis 
 4. Hotel Data Analysis (Booking data)
 5.Homicide_Data_Analysis 
+
+
+
+
 Steps Taken:
 1. Importing Necessary Libraries:
 •	numpy: For numerical computations and array operations.
